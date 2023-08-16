@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b588b70-c55f-4bba-aab6-a88f81e62846" name="Changes" comment="Snakes And Ladder Game Implementation">
-      <change afterPath="$PROJECT_DIR$/src/SnakesAndLadderGame/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SnakesAndLadderGame/Ladder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SnakesAndLadderGame/Snake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnakesAndLadderGame/SnakeLadderGameInitializer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SnakesAndLadderGame/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SnakesAndLadderGame/Dice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SnakesAndLadderGame/GameBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SnakesAndLadderGame/SnakeLadderGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SnakesAndLadderGame/Jumper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SnakesAndLadderGame/Jumper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SnakesAndLadderGame/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SnakesAndLadderGame/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +69,23 @@
       <option name="project" value="LOCAL" />
       <updated>1692199705701</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Snakes And Ladder Game Implementation">
+      <option name="closed" value="true" />
+      <created>1692203764014</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692203764014</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Snakes And Ladder Game Implementation">
+      <option name="closed" value="true" />
+      <created>1692203775084</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692203775084</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
