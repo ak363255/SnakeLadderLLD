@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b588b70-c55f-4bba-aab6-a88f81e62846" name="Changes" comment="" />
+    <list default="true" id="2b588b70-c55f-4bba-aab6-a88f81e62846" name="Changes" comment="Snakes And Ladder Game Implementation">
+      <change afterPath="$PROJECT_DIR$/src/SnakesAndLadderGame/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnakesAndLadderGame/Ladder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SnakesAndLadderGame/Snake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SnakesAndLadderGame/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SnakesAndLadderGame/Dice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SnakesAndLadderGame/GameBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SnakesAndLadderGame/SnakeLadderGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SnakesAndLadderGame/Jumper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SnakesAndLadderGame/Jumper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SnakesAndLadderGame/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SnakesAndLadderGame/Player.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,6 +46,11 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SnakesAndLadderGame" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,6 +60,38 @@
       <option name="presentableId" value="Default" />
       <updated>1692199586279</updated>
     </task>
+    <task id="LOCAL-00001" summary="Snakes And Ladder Game Implementation">
+      <option name="closed" value="true" />
+      <created>1692199687096</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692199687096</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Snakes And Ladder Game Implementation">
+      <option name="closed" value="true" />
+      <created>1692199705700</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692199705701</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Snakes And Ladder Game Implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snakes And Ladder Game Implementation" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SnakesAndLadderGame/SnakeLadderGame.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
